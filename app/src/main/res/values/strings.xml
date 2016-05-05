@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MegaSena</string>
+    <string name="lbl_titulo">Simulador Mega Sena</string>
+    <string name="lbl_jogar">Jogar</string>
+</resources>
